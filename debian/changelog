@@ -1,0 +1,23 @@
+deepin-gettext-tools (1.0.6) zesty; urgency=low
+
+  * Autobuild Tag 1.0.6 
+
+ -- lilongyu <leaeasy@gmail.com>  Tue, 01 Aug 2017 08:01:46 +0800
+
+deepin-gettext-tools (1.0.1-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Fri, 14 Aug 2015 09:53:56 +0000
+
+deepin-gettext-tools (1.0.0-1) stable; urgency=low
+
+  * Autobuild Tag 1.0.0-1 
+
+ -- TagBuilder <tabbuilder@linuxdeepin.com>  Wed, 01 Jul 2015 08:11:33 +0000
+
+deepin-gettext-tools (0.0.0) unstable; urgency=low
+
+  * Unstable release.
+
+ -- 宋文武 <songwenwu@linuxdeepin.com>  Thu, 18 Sep 2014 11:28:07 +0800
